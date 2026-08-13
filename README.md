@@ -8,11 +8,11 @@
  Este projeto consiste no desenvolvimento de uma **Análise Exploratória de Dados (AED)** e **ETL (Extract, Transform, Load)** aplicado a uma base de dados do setor varejista. O objetivo é verificar a qualidade dos dados brutos, aplicar tratamentos e padronizações utilizando **Python e Pandas**, e extrair dessa base estatísticas descritivas e agrupamentos para suporte à tomada de decisão de negócio.
 
 ## Ferramentas
-> **Pyhton 3.10**
-> **Pandas**
-> **NumPy**
-> **VS Code**
-> **Git & GitHub**
+- **Pyhton 3.10**
+- **Pandas**
+- **NumPy**
+- **VS Code**
+- **Git & GitHub**
 
 ## Estrutura do Repositório
 
