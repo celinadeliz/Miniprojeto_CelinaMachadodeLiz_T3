@@ -12,17 +12,16 @@
 
 ## Estrutura do Repositório
 Miniprojeto_CelinaMachadodeLiz_T3/
-
 - Base Varejo.csv         # Dataset bruto baixado do Kaggle
 - df_limpo.csv            # Base tratada exportada após limpeza
 - projeto.py              # Script principal com o pipeline de dados
 - README.md               # Documentação técnica do projeto
 
 ## Instruções de Execução
-1. Abra a pasta do projeto no VS Code (ou Google Colab).
-2. Certifique-se de que a base original `Base Varejo.csv` está no mesmo diretório.
-3. Execute o script Python principal (`miniprojeto1.py`).
-4. Os resultados estatísticos e de agrupamento serão exibidos no terminal, e o arquivo `df_limpo.csv` será gerado automaticamente na pasta.
+ 1. Abra a pasta do projeto no VS Code (ou Google Colab).
+ 2. Certifique-se de que a base original `Base Varejo.csv` está no mesmo diretório.
+ 3. Execute o script Python principal (`miniprojeto1.py`).
+ 4. Os resultados estatísticos e de agrupamento serão exibidos no terminal, e o arquivo `df_limpo.csv` será gerado automaticamente na pasta.
 
 ## Reflexão Teórica: ETL e Qualidade de Dados
 No cenário de Business Intelligence, o procedimento de ETL (Extração, Transformação e Carga) é a base de qualquer análise. A fase de Transformação, aqui desenvolvida no projeto, é de suma importância para se garantir a Qualidade dos Dados. Bases brutas frequentemente são prejudicadas por ruídos, tais como: nulos, duplicatas, tipagens incorretas(ex.: dados no formato de strings). A falta desse tratamento impacta diretamente a estatística descritiva e a decisão. A proteção da integridade dos dados evita a ocorrência do efeito “ Garbage In , Garbage Out”, garantindo que as ideias extraí das fornecidas à situação real do negócio. 
