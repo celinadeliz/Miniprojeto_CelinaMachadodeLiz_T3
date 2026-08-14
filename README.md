@@ -12,11 +12,11 @@
 
 ## Estrutura do Repositório
 Miniprojeto_CelinaMachadodeLiz_T3/
-│
-├── Base Varejo.csv         # Dataset bruto baixado do Kaggle
-├── df_limpo.csv            # Base tratada exportada após limpeza
-├── projeto.py              # Script principal com o pipeline de dados
-└── README.md               # Documentação técnica do projeto
+
+- Base Varejo.csv         # Dataset bruto baixado do Kaggle
+- df_limpo.csv            # Base tratada exportada após limpeza
+- projeto.py              # Script principal com o pipeline de dados
+- README.md               # Documentação técnica do projeto
 
 ## Instruções de Execução
 1. Abra a pasta do projeto no VS Code (ou Google Colab).
